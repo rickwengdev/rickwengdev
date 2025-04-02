@@ -41,7 +41,7 @@ I'm a software engineer passionate about building scalable web applications and 
 ## 📫 Contact
 
 - [GitHub](https://github.com/rickwengdev)
-- [LinkedIn](#) ← 換成你的 LinkedIn 連結
-- Email: yourname@example.com ← 請換掉這個
+- [LinkedIn](#)
+- Email: 
 
 ---
