@@ -25,9 +25,6 @@ I'm a software engineer passionate about building scalable web applications and 
 ### [SaoriBot](https://github.com/rickwengdev/SaoriBot)
 > Discord Bot，用來管理伺服器與互動，自動部署 + 指令模組化。
 
-### [Bollinger-bands-simulated-trading-bot](https://github.com/rickwengdev/Bollinger-bands-simulated-trading-bot)
-> 使用 Python 撰寫的模擬交易機器人，基於布林通道策略分析 BTC 價格。
-
 ---
 
 ## ☁️ Currently Learning
