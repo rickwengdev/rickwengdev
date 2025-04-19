@@ -37,7 +37,6 @@ I'm a software engineer passionate about building scalable web applications and 
 
 ## 📫 Contact
 
-- [GitHub](https://github.com/rickwengdev)
 - [LinkedIn](#)
 - Email: 
 
