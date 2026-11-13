@@ -28,12 +28,4 @@
       01110110 01100101 01110010 01101001 01100110 01111001                 
 ```
 
-<sub>
-<a href="https://saturn-core.com">saturn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://rickwengdev.github.io">signal</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://orcid.org/0009-0006-4178-347X">record</a>
-</sub>
-
 </div>
