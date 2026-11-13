@@ -19,7 +19,7 @@
                                    .. ... .. ..                             
                                                                             
                                                                             
-      r i c k   w e n g                                                     
+      Rick Weng                                                             
                                                                             
       models do what they do. not what they say.                            
       i look at the difference.                                             
