@@ -19,7 +19,7 @@
                                    .. ... .. ..
 
 
-      r i c k   w e n g
+      Rick Weng
 
       models do what they do. not what they say.
       i look at the difference.
@@ -29,9 +29,9 @@
 ```
 
 <sub>
-<a href="https://saturn-core.com">saturn</a>
+<a href="https://saturn-core.com">Saturn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://rickwengdev.github.io">signal</a>
+<a href="https://rickwengdev.github.io">About me</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://orcid.org/0009-0006-4178-347X">record</a>
 </sub>
